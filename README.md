@@ -10,4 +10,4 @@ Technology stack: HTML, CSS, JavaScript, Parcel, REST API, GIT.
 
 How to use:
 
-Go to the live page 
+Go to the live page https://aniyavolfman.github.io/search-images/
